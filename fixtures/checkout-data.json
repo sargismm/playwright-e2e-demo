@@ -1,0 +1,22 @@
+{
+  "valid": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "zipCode": "10001"
+  },
+  "invalid": {
+    "firstName": "",
+    "lastName": "Doe",
+    "zipCode": "10001"
+  },
+  "missingLastName": {
+    "firstName": "John",
+    "lastName": "",
+    "zipCode": "10001"
+  },
+  "missingZip": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "zipCode": ""
+  }
+}
