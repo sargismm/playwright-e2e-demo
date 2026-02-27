@@ -229,3 +229,7 @@ The following accounts are built into the Swag Labs demo site and stored in `fix
 | `performance_glitch_user` | Simulates slow responses |
 
 Password for all accounts: `secret_sauce`
+
+### Report example
+<img width="985" height="1257" alt="Screenshot 2026-02-27 at 9 11 46 AM" src="https://github.com/user-attachments/assets/40b549da-0ed6-41d1-bc8c-305392f106be" />
+
